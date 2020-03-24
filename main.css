@@ -1,0 +1,81 @@
+body{
+    margin: 0; 
+    padding: 0; 
+
+}
+
+
+
+body p{
+    margin: 0; 
+    padding: 0; 
+}
+
+.title{
+    font-size: 22px; 
+    font-weight: bolder; 
+}
+
+.title p{
+    margin-bottom: 5px; 
+}
+
+.underline{
+    border: solid 2px #000; 
+}
+
+.thumbnail{
+    width: 150px; 
+    height: 150px; 
+}
+
+.text-information{
+    margin-bottom: 2px;
+}
+
+.item-left p{
+    font-weight: bolder; 
+}
+
+
+
+.information{
+    display: flex; 
+    min-height: 80px;
+    width: 100%; 
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+}
+
+.information .information-content{
+    width: 66.66%; 
+}
+
+.information .image-block{
+    width: 33.33%; 
+    display: flex; 
+    align-items: flex-end; 
+    justify-content: flex-end; 
+}
+
+.content-container{
+    width: 100%; 
+    display: flex; 
+    flex-direction: row; 
+    margin-bottom: 10px; 
+   
+}
+
+.mycol1{
+   width: 33.33%; 
+}
+
+.mycol2{
+    width: 66.67%; 
+}
+
+.akademische-information{
+    padding-top: 20px; 
+    padding-bottom: 10px; 
+}
+
